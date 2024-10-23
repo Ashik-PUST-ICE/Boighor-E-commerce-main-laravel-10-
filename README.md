@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,15 +63,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# laravel8ecommerce
+=======
 
-# Boighor E-commerce
 
-Boighor E-commerce is a Laravel-based online bookstore application that allows users to browse and purchase books. It is built with Laravel 10 and integrates a range of features, including:
 
-- Product listing and filtering
-- Shopping cart and checkout system
-- User authentication and admin panel for managing products
-- Order tracking and inventory management
-- Contact form and About Us page
+# Boighor-E-commerce-main-laravel-10-
+Changes from the remote repository
+>>>>>>> main
 
-This project is intended to provide a seamless online shopping experience for book lovers.
